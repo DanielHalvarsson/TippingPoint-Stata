@@ -1,5 +1,4 @@
-** Polynomial program***********************************************************
-
+* Program for locating the roots of a p-th order polynomial and evaluate the derivatives
 
 capture program drop tproot
 mata: mata clear
