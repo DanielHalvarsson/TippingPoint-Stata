@@ -33,6 +33,8 @@ dydx = st_matrix("dydx")
 }
 end
 * this is a test 1
+* Should Delete
+
 mata:
 real matrix	function polyderive(real vector X, real rowvector C)
 	{    
