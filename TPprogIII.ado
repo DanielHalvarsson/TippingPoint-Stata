@@ -32,7 +32,8 @@ dydx = st_matrix("dydx")
 	}
 }
 end
-* this is a test 1
+* this is a test 12
+
 
 mata:
 real matrix	function polyderive(real vector X, real rowvector C)
